@@ -1,0 +1,6 @@
+Invoking command in '/home/sunildj/agv_ws/build/agv_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/sunildj/agv_ws/src/agv_bot -DCMAKE_INSTALL_PREFIX=/home/sunildj/agv_ws/install/agv_bot
+Invoked command in '/home/sunildj/agv_ws/build/agv_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/sunildj/agv_ws/src/agv_bot -DCMAKE_INSTALL_PREFIX=/home/sunildj/agv_ws/install/agv_bot
+Invoking command in '/home/sunildj/agv_ws/build/agv_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/sunildj/agv_ws/build/agv_bot -- -j6 -l6
+Invoked command in '/home/sunildj/agv_ws/build/agv_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/sunildj/agv_ws/build/agv_bot -- -j6 -l6
+Invoking command in '/home/sunildj/agv_ws/build/agv_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/sunildj/agv_ws/build/agv_bot
+Invoked command in '/home/sunildj/agv_ws/build/agv_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/sunildj/agv_ws/build/agv_bot
