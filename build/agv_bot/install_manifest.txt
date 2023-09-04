@@ -1,5 +1,8 @@
+/home/sunildj/agv_ws/install/agv_bot/share/agv_bot/config/ekf.yaml
+/home/sunildj/agv_ws/install/agv_bot/share/agv_bot/launch/agv_bot_v2.launch.py
 /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/launch/agv_bot_v1.launch.py
 /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/launch/agv_bot_sim.launch.py
+/home/sunildj/agv_ws/install/agv_bot/share/agv_bot/launch/agv_bot_v3.launch.py
 /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/meshes/wheel.stl
 /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/meshes/elbow.stl
 /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/meshes/wrist.stl

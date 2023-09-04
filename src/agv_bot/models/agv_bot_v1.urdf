@@ -181,6 +181,38 @@
   </joint>
 
   <link name="gps_link"/>
+  
+  <!-- *********************** LIDAR SETUP **********************************  -->
+  <joint name="lidar_joint" type="fixed">
+    <parent link="base_link"/>
+    <child link="lidar_link"/>
+    <origin xyz="0.215 0 0.13" rpy="0 0 0"/>
+  </joint>
+
+  <link name="lidar_link">
+  
+    <collision>
+     <origin xyz="0 0 0" rpy="0 0 0"/>
+     <geometry>
+      <cylinder radius="0.0508" length="0.08"/>
+     </geometry>
+    </collision>
+    
+    <visual>
+     <origin xyz="0 0 0" rpy="0 0 0"/>
+     <geometry>
+      <cylinder radius="0.0508" length="0.08"/>
+     </geometry>
+     <material name="Black">
+          <color rgba="${0/255} ${0/255} ${0/255} 1.0"/>
+     </material>
+    </visual>
+    
+    <inertial>
+      <mass value="0.114" />
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+      <inertia ixx="0.001" ixy="0" ixz="0" iyy="0.001" iyz="0" izz="0.001" />
+    </inertial>
+  </link>
 
 </robot>
-

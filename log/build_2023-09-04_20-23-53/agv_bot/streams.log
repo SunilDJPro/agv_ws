@@ -1,0 +1,53 @@
+[0.013s] Invoking command in '/home/sunildj/agv_ws/build/agv_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/sunildj/agv_ws/build/agv_bot -- -j6 -l6
+[0.044s] Invoked command in '/home/sunildj/agv_ws/build/agv_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/sunildj/agv_ws/build/agv_bot -- -j6 -l6
+[0.066s] Invoking command in '/home/sunildj/agv_ws/build/agv_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/sunildj/agv_ws/build/agv_bot
+[0.071s] -- Install configuration: ""
+[0.071s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/config
+[0.071s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/config/ekf.yaml
+[0.071s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/launch
+[0.071s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/launch/agv_bot_v2.launch.py
+[0.072s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/launch/agv_bot_v1.launch.py
+[0.072s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/launch/agv_bot_sim.launch.py
+[0.072s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/maps
+[0.072s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/meshes
+[0.072s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/meshes/wheel.stl
+[0.072s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/meshes/elbow.stl
+[0.072s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/meshes/wrist.stl
+[0.072s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/meshes/arm_base.stl
+[0.072s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/meshes/bicep.stl
+[0.072s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/meshes/robot_base.stl
+[0.072s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/models
+[0.072s] -- Installing: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/models/agv_bot_v1.urdf
+[0.072s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/models/agv_bot_description
+[0.072s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/models/agv_bot_description/meshes
+[0.072s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/models/agv_bot_description/meshes/wheel.stl
+[0.073s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/models/agv_bot_description/meshes/elbow.stl
+[0.073s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/models/agv_bot_description/meshes/wrist.stl
+[0.073s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/models/agv_bot_description/meshes/arm_base.stl
+[0.073s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/models/agv_bot_description/meshes/bicep.stl
+[0.073s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/models/agv_bot_description/meshes/robot_base.stl
+[0.073s] -- Installing: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/models/agv_bot_description/model.sdf
+[0.073s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/models/agv_bot_description/model.config
+[0.073s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/params
+[0.073s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/rviz
+[0.073s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/rviz/urdf_config.rviz
+[0.073s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/src
+[0.073s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/worlds
+[0.073s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/worlds/agv_bot_world
+[0.073s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/worlds/agv_bot_world/agv_town.world
+[0.073s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/ament_index/resource_index/package_run_dependencies/agv_bot
+[0.073s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/ament_index/resource_index/parent_prefix_path/agv_bot
+[0.073s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/environment/ament_prefix_path.sh
+[0.074s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/environment/ament_prefix_path.dsv
+[0.074s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/environment/path.sh
+[0.075s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/environment/path.dsv
+[0.075s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/local_setup.bash
+[0.075s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/local_setup.sh
+[0.075s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/local_setup.zsh
+[0.076s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/local_setup.dsv
+[0.076s] -- Installing: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/package.dsv
+[0.076s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/ament_index/resource_index/packages/agv_bot
+[0.077s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/cmake/agv_botConfig.cmake
+[0.077s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/cmake/agv_botConfig-version.cmake
+[0.077s] -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/package.xml
+[0.077s] Invoked command in '/home/sunildj/agv_ws/build/agv_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/sunildj/agv_ws/build/agv_bot
