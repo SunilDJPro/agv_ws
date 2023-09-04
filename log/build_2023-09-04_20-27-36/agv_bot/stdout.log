@@ -2,7 +2,7 @@
 -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/config
 -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/config/ekf.yaml
 -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/launch
--- Installing: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/launch/agv_bot_v2.launch.py
+-- Installing: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/launch/agv_bot_v1.launch.py
 -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/launch/agv_bot_v1.launch.py
 -- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/launch/agv_bot_sim.launch.py
 -- Installing: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/launch/agv_bot_v3.launch.py

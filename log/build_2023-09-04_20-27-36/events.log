@@ -12,7 +12,7 @@
 [0.106145] (agv_bot) StdoutLine: {'line': b'-- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/config\n'}
 [0.106208] (agv_bot) StdoutLine: {'line': b'-- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/config/ekf.yaml\n'}
 [0.106263] (agv_bot) StdoutLine: {'line': b'-- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/launch\n'}
-[0.106315] (agv_bot) StdoutLine: {'line': b'-- Installing: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/launch/agv_bot_v2.launch.py\n'}
+[0.106315] (agv_bot) StdoutLine: {'line': b'-- Installing: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/launch/agv_bot_v1.launch.py\n'}
 [0.106484] (agv_bot) StdoutLine: {'line': b'-- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/launch/agv_bot_v1.launch.py\n'}
 [0.106548] (agv_bot) StdoutLine: {'line': b'-- Up-to-date: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/launch/agv_bot_sim.launch.py\n'}
 [0.106602] (agv_bot) StdoutLine: {'line': b'-- Installing: /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/launch/agv_bot_v3.launch.py\n'}

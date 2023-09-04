@@ -3,6 +3,9 @@
 /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/launch/agv_bot_v1.launch.py
 /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/launch/agv_bot_sim.launch.py
 /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/launch/agv_bot_v3.launch.py
+/home/sunildj/agv_ws/install/agv_bot/share/agv_bot/launch/agv_bot_nav.launch.py
+/home/sunildj/agv_ws/install/agv_bot/share/agv_bot/maps/agv_town_world.pgm
+/home/sunildj/agv_ws/install/agv_bot/share/agv_bot/maps/agv_town_world.yaml
 /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/meshes/wheel.stl
 /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/meshes/elbow.stl
 /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/meshes/wrist.stl
@@ -18,6 +21,8 @@
 /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/models/agv_bot_description/meshes/robot_base.stl
 /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/models/agv_bot_description/model.sdf
 /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/models/agv_bot_description/model.config
+/home/sunildj/agv_ws/install/agv_bot/share/agv_bot/params/nav2_params.yaml
+/home/sunildj/agv_ws/install/agv_bot/share/agv_bot/rviz/nav2_config.rviz
 /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/rviz/urdf_config.rviz
 /home/sunildj/agv_ws/install/agv_bot/share/agv_bot/worlds/agv_bot_world/agv_town.world
 /home/sunildj/agv_ws/install/agv_bot/share/ament_index/resource_index/package_run_dependencies/agv_bot
